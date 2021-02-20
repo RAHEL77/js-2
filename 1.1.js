@@ -4,7 +4,7 @@ function bool(a) {
     else
         console.log("Yes")
 
-    //    console.log(a == t  rue ? "Yes" : "No")
+    //    console.log(a == true ? "Yes" : "No")
 }
 const x = new Boolean(1);
 bool(x);
